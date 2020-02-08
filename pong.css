@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+  height: 100vh;
+}
+
+canvas{
+background-color: aqua;
+border: 3px solid white;
+}
+
+.gameDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+header{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 30px;
+  margin: 0 auto;
+  text-align: center;
+}
